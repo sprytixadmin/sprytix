@@ -1,0 +1,28 @@
+project:
+  type: website
+website:
+  title: "Sprytix"
+  favicon: images\sprytix_logo_small.jpg
+  navbar:
+    logo: images\sprytix_logo_small.jpg
+    pinned: true
+    background: "#1c68b5"
+    right:
+      - href: about.qmd
+        text: About Us
+      - href: contest.qmd
+        text: Contest
+      - href: contact_us.qmd
+        text: Contact Us
+  page-footer: 
+    center: "&#169; 2023 Sprytix.org"
+    background: black
+    
+format:
+  html:
+    theme: lumen
+    css: css\custom.scss
+    link-external-newwindow: true
+    fontcolor: "#1c68b5"
+editor: visual
+

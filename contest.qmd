@@ -1,0 +1,48 @@
+---
+title: "Contest"
+format:
+  html:
+    page-layout: full
+---
+
+::: {layout="[ [1] ]"}
+## Dear esteemed Universities and Colleges,
+
+We are thrilled to announce the launch of the highly anticipated **'Creative Visualisation Challenge'**, a unique opportunity for academic institutions to showcase their data analysis skills and contribute to groundbreaking research. We cordially invite all universities and colleges with **'.edu', '.ac.in', or '.edu.in' domains** to participate in this exciting event. At the heart of this contest lies the **Sprytix AI Research Platform (beta)**, a cutting-edge tool that empowers researchers to derive meaningful insights from open-source data. By utilizing advanced artificial intelligence algorithms and powerful visualization capabilities, participants can analyze and interpret data like never before.
+
+[![](images/contest_banner.jpg)](contact_us.html)
+
+## Why should you participate?
+
+-   **Access to Comprehensive Datasets:** Gain access to a wide range of meticulously curated datasets, enabling you to explore diverse research areas and tackle complex challenges.
+-   **Unleash the Power of AI:** Leverage the capabilities of the Sprytix AI Research Platform, equipped with state-of-the-art algorithms that autonomously analyze data, uncover hidden patterns, and generate accurate visualizations.
+-   **Showcase your Research Skills:** Demonstrate your institution's expertise in data analysis and research by producing insightful articles accompanied by compelling visualizations.
+-   **Networking and Collaboration:** Connect with like-minded researchers and academics from prestigious institutions across the globe. Engage in meaningful discussions, exchange ideas, and foster collaborations that have the potential to shape the future of your field.
+
+## Entry Criteria:
+
+This contest remains exclusive to academic institutions, fostering an environment of shared knowledge and academic excellence.
+
+To be eligible for participation:
+
+1.  **Registered educational domain:** Universities and colleges must have a domain ending in '.edu', '.ac.in', or '.edu.in'.
+2.  **Relevant course or program:** The institution should have at least 1 course or program focussed on aspects of Data Science.
+3.  **Programming:** The course taught at the institution should have either R or Python language as a programming language.
+
+## How to Enter:
+
+-   Visit our contest website at [Contact Us](contact_us.html "Contact Us") page and register your institution. Select the **'Contest'** option while filling the form.
+-   Gain access to the **Sprytix AI Research Platform** and start exploring the diverse carbon datasets.
+-   Analyze the data, derive meaningful insights, and create compelling research articles accompanied by visualizations.
+-   Submit your research article via the contest website before the submission deadline.
+
+This is your chance to demonstrate your institution's prowess in data analysis, contribute to cutting-edge research, and make a lasting impact in your field. Don't miss out on this incredible opportunity!
+
+Join the **'Creative Visualisation Challenge'** today and embark on a transformative journey that combines the power of AI with your research expertise. Together, let's push the boundaries of knowledge and pave the way for a brighter future.
+
+We look forward to receiving your participation and witnessing the brilliance that your institution brings to the table.
+
+Best regards,
+
+Team Sprytix.org
+:::

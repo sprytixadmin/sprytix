@@ -1,0 +1,20 @@
+---
+format:
+  html:
+    page-layout: full
+---
+
+```{=html}
+<style>
+  body {
+  background-image: url("images/home_banner.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+</style>
+```
+::: {style="text-align: center;"}
+# Sprytix Mission: [Net Zero](https://www.un.org/en/climatechange/net-zero-coalition "Net Zero")
+
+Decarbonize our world!
+:::

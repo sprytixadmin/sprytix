@@ -872,11 +872,6 @@ format:
               
               <!-- /Privacy policy -->
 
-              
-
-              
-
-              
 
 
 

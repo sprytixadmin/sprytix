@@ -6,7 +6,7 @@ format:
 ---
 
 ::: {layout="[ [1] ]"}
-## Dear esteemed Universities and Colleges,
+## Educational Institutions
 
 We are thrilled to announce the launch of the highly anticipated **'Creative Visualisation Challenge'**, a unique opportunity for academic institutions to showcase their data analysis skills and contribute to groundbreaking research. We cordially invite all universities and colleges with **'.edu', '.ac.in', or '.edu.in' domains** to participate in this exciting event. At the heart of this contest lies the **Sprytix AI Research Platform (beta)**, a cutting-edge tool that empowers researchers to derive meaningful insights from open-source data. By utilizing advanced artificial intelligence algorithms and powerful visualization capabilities, participants can analyze and interpret data like never before.
 

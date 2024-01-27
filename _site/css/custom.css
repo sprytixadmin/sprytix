@@ -1,0 +1,7 @@
+/*-- Home page banner customization --*/
+
+body {
+  background-image: url("../images/home_banner.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}

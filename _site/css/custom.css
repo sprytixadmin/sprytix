@@ -1,7 +1,21 @@
-/*-- Home page banner customization --*/
+/*-- Custom CSS for Cards and other elements --*/
 
-body {
-  background-image: url("../images/home_banner.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
+.card {
+  display: flex; /* Use flexbox layout */
+  padding: 0.5em; /* Adjust the padding as needed */
+  background-color: #f0f0f0; /* Set the background color */
+  border-radius: 1.5em; /* Set the border radius for curved edges */
+  box-shadow: 0 0.2em 0.4em rgba(0, 0, 0, 0.1); /* Add a shadow for depth */
+  margin-bottom: 0.5em; /* Adjust the margin-bottom */
+}
+
+.card-header {
+  display: flex; /* Use flexbox layout */
+  align-items: center; /* Center the content vertically */
+  font-weight: bold; /* Make the header text bold */
+  font-size: 1.5em; /* Reduce the font size */
+  margin: 0.5em 0; /* Adjust the margin to match the padding in .card */
+  background-color: #1c68b5; /* Set the background color */
+  border-radius: 0.5em; /* Set the border radius for curved edges */
+  color: white; /* Set the font color to white */
 }
